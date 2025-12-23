@@ -1,0 +1,5 @@
+{
+  "name": "Luxury Interactive Christmas Tree",
+  "description": "A high-end, 3D interactive Christmas tree visualization. Features a magnificent particle-based tree that disperses into a constellation on click. Rebuilt with React, Three.js, and post-processing for a premium aesthetic.",
+  "requestFramePermissions": []
+}
